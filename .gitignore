@@ -1,0 +1,11 @@
+# Python
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*$py.class
+
+
+# JetBrains
+# User-specific stuff
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/dictionaries
